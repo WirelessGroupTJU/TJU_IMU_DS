@@ -38,4 +38,4 @@ If this link is not available, please contact the author(jiankunwang@tju.edu.cn)
 TODO
 
 ## Citation
-Wang Jiankun, Zhao Zenghua, Cui Jiayang, Zheng Rong, Lu Jiafan, Wu Bin. TrackLet: Data-Driven Inertial Tracking on Your Own IMU Data [J]. In IEEE Transactions on Mobile Computing, 2025 (TMC).
+Yuefan Tong, Jiankun Wang, Zenghua Zhao, Jiayang Cui, Bin Wu, Noisy Labels Make Sense: Data-Driven Smartphone Inertial Tracking without Tedious Annotations, the 25th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM’2024), Perth, Western Australia, Jun. 04-07 2024.
